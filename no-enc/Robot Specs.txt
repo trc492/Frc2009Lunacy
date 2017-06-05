@@ -1,0 +1,15 @@
+Max Motor RPM: 5400
+Gearbox Ratio: 12.75
+Drive Ratio: 1.2
+Encoder CPR: 250
+Inches per wheel rotation (pi): 6
+
+Low Battery:
+Bemf: 93
+Torque Lim: 0.52
+Slip Lim: 150
+
+Fresh Battery:
+Bemf: 125
+Torque Lim: 0.41
+slip lim: 170

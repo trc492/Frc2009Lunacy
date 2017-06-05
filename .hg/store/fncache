@@ -1,0 +1,195 @@
+data/original/Shooter Speed Thing.vi.i
+data/updated-original/Dashboard Datatype.ctl.i
+data/development + camera/Steering PID Abs.vi.i
+data/no-enc/Basic Robot Global.vi.i
+data/development/Basic Robot Main.vi.d
+data/development-camera/Camera Code/SizeOrderedMorphologyv1.vi.i
+data/branches/slip-control-by-torque-lim/No Encoders.aliases.i
+data/fresh copy/Test Project.aliases.i
+data/development + camera/Upper Half.vi.i
+data/updated-original/Basic Robot Global.vi.i
+data/development-camera/Camera Code/FindTwoColorv1.vi.i
+data/development/Basic Robot Main.vi.i
+data/branches/slip-control-by-torque-lim/Basic Robot Global.vi.i
+data/development-camera/custom motor control-et.vi.i
+data/branches/slip-control-by-torque-lim/Basic Robot Main.vi.i
+data/fresh copy/Basic Robot Global.vi.i
+data/tags/stable-drive/Ultrasonic sensors.vi.i
+data/development-camera/No Encoders.lvproj.i
+data/tags/stable-drive/Basic Robot Global.vi.i
+data/development/No Encoders.lvproj.i
+data/no-enc/Autonomous Independent.vi.i
+data/development-camera/Camera Code/Two Color Servo Camera Example.aliases.i
+data/development/custom motor control-et.vi.i
+data/branches/slip-control-by-torque-lim/Upper Half.vi.i
+data/development-camera/Basic Robot Global.vi.i
+data/development + camera/Camera Code/Control Statesv1.ctl.i
+data/branches/slip-control-by-torque-lim/Update Camera Status.vi.i
+data/development-camera/Camera Code/Team Designationv1.ctl.i
+data/branches/slip-control-by-torque-lim/Build DashBoard Data.vi.i
+data/updated-original/Smart Steering Control.vi.i
+data/branches/andrew-dev/Basic Robot Global.vi.i
+data/development + camera/Camera Code/Center of Rectv1.vi.i
+data/development-camera/Camera Code/Two Color Servo Camera Examplev1.lvproj.i
+data/development-camera/Camera Code/Split FF Infov1.vi.i
+data/development-camera/Build DashBoard Data.vi.i
+data/branches/paul-dev/PID Drive.vi.i
+data/updated-original/Velocity.vi.i
+data/branches/andrew-dev/Basic Robot Main.vi.i
+data/development-camera/Camera Code/FF Info.ctl.i
+data/tags/stable-drive/Upper Half.vi.i
+data/development + camera/Camera Code/Single Target Infov1.ctl.i
+data/development + camera/Update Camera Status.vi.i
+data/branches/andrew-dev/Ultrasonic sensors.vi.i
+data/development + camera/Camera Code/Two Color Servo Camera Examplev1.aliases.i
+data/branches/andrew-dev/Slipping.vi.i
+data/development + camera/Autonomous Independent.vi.i
+data/development + camera/Camera Code/FF Results.ctl.i
+data/original/Development Robot 09.aliases.i
+data/branches/slip-control-by-torque-lim/Slipping.vi.i
+data/development-camera/No Encoders.aliases.i
+data/development + camera/Basic Robot Global.vi.i
+data/tags/stable-drive/No Encoders.aliases.i
+data/branches/paul-dev/KbEMF.vi.i
+data/development + camera/Camera Code/Calibrate White Balancev1.vi.i
+data/branches/paul-dev/Encoder Velocities.vi.i
+data/branches/andrew-dev/No Encoders.lvproj.i
+data/branches/slip-control-by-torque-lim/Ultrasonic sensors.vi.i
+data/no-enc/Update Camera Status.vi.i
+data/no-enc/No Encoders.lvproj.i
+data/development-camera/Camera Code/Single Target Infov1.ctl.i
+data/development + camera/Dashboard Datatype.ctl.i
+data/branches/andrew-dev/Update Camera Status.vi.i
+data/development-camera/Slipping.vi.i
+data/development-camera/Camera Code/Compare Sizesv1.vi.i
+data/branches/paul-dev/Prepare Encoders.vi.i
+data/branches/paul-dev/Basic Robot Main.vi.i
+data/development-camera/Autonomous Independent.vi.i
+data/branches/paul-dev/Development Robot 09.aliases.i
+data/updated-original/Shooting Thing.vi.i
+data/original/Autonomous Independent.vi.i
+data/updated-original/Basic Robot Main.vi.i
+data/branches/slip-control-by-torque-lim/Autonomous Independent.vi.i
+data/branches/andrew-dev/Autonomous Independent.vi.i
+data/no-enc/Dashboard Datatype.ctl.i
+data/development-camera/Limit Switches.vi.i
+data/updated-original/Standard 09.lvproj.i
+data/no-enc/Robot Specs.txt.i
+data/branches/andrew-dev/Dashboard Datatype.ctl.i
+data/development-camera/Camera Code/Calibrate White Balancev1.vi.i
+data/development-camera/Camera Code/CreateImagesv1.vi.i
+data/no-enc/Basic Robot Main.vi.i
+data/original/Smart Steering Control.vi.i
+data/development + camera/Camera Code/Merge Rects Verticallyv1.vi.i
+data/original/am i slipping.vi.i
+data/branches/paul-dev/Development Robot 09.lvproj.i
+data/branches/andrew-dev/Joystick coerce.vi.i
+data/development + camera/Limit Switches.vi.i
+data/branches/andrew-dev/No Encoders.aliases.i
+data/branches/paul-dev/Autonomous Independent.vi.i
+data/development-camera/Camera Code/Center of Rectv1.vi.i
+data/original/Basic Robot Global.vi.i
+data/branches/andrew-dev/custom motor control-et.vi.i
+data/tags/stable-drive/Slipping.vi.i
+data/development + camera/Camera Code/Two Color Servo Camera Examplev1.lvproj.i
+data/development + camera/Camera Code/Two Color Servo Camera Example.aliases.i
+data/development-camera/Dashboard Datatype.ctl.i
+data/no-enc/Ultrasonic sensors.vi.i
+data/development + camera/custom motor control-et.vi.i
+data/branches/slip-control-by-torque-lim/custom motor control-et.vi.i
+data/development/Ultrasonic sensors.vi.i
+data/development-camera/Steering PID Abs.vi.i
+data/development + camera/Slipping.vi.i
+data/development-camera/Camera Code/FPS Calculatorv1.vi.i
+data/development + camera/Camera Code/Two Color Servo Camera Examplev1.vi.i
+data/development/Basic Robot Global.vi.i
+data/tags/stable-drive/Dashboard Datatype.ctl.i
+data/development + camera/Camera Code/Green Rectsv1.vi.i
+data/development + camera/Camera Code/CreateImagesv1.vi.i
+data/tags/stable-drive/Basic Robot Main.vi.i
+data/development + camera/Camera Code/FindTwoColorv1.vi.i
+data/fresh copy/Dashboard Datatype.ctl.i
+data/development/Build DashBoard Data.vi.i
+data/development-camera/Camera Code/Merge Rects Verticallyv1.vi.i
+data/development-camera/Basic Robot Main.vi.d
+data/development + camera/No Encoders.lvproj.i
+data/development + camera/Camera Code/Test Second Colorv1.vi.i
+data/tags/stable-drive/custom motor control-et.vi.i
+data/development-camera/Basic Robot Main.vi.i
+data/development-camera/Camera Code/Servo Tracking State Machinev1.vi.i
+data/development-camera/Camera Code/Two Color Servo Camera Examplev1.aliases.i
+data/development + camera/Build DashBoard Data.vi.i
+data/development-camera/Camera Code/Green Rectsv1.vi.i
+data/branches/paul-dev/Basic Robot Global.vi.i
+data/development-camera/Upper Half.vi.i
+data/no-enc/Build DashBoard Data.vi.i
+data/branches/slip-control-by-torque-lim/No Encoders.lvproj.i
+data/.hgignore.i
+data/tags/stable-drive/Autonomous Independent.vi.i
+data/tags/stable-drive/Steering PID.vi.i
+data/development-camera/Camera Code/Control Statesv1.ctl.i
+data/original/Basic Robot Main.vi.i
+data/tags/stable-drive/No Encoders.lvproj.i
+data/development/Upper Half.vi.i
+data/original/Development Robot 09.lvproj.i
+data/development + camera/Ultrasonic sensors.vi.i
+data/development-camera/Camera Code/Target Info.ctl.i
+data/original/Shooting Thing.vi.i
+data/development + camera/Camera Code/FPS Calculatorv1.vi.i
+data/branches/slip-control-by-torque-lim/Dashboard Datatype.ctl.i
+data/tags/stable-drive/Build DashBoard Data.vi.i
+data/no-enc/No Encoders.aliases.i
+data/development/Slipping.vi.i
+data/updated-original/Slipping.vi.i
+data/development/Autonomous Independent.vi.i
+data/original/custom motor control-et.vi.i
+data/no-enc/Slipping.vi.i
+data/fresh copy/Autonomous Independent.vi.i
+data/tags/stable-drive/Robot Specs.txt.i
+data/development + camera/Camera Code/BiColor Maskv1.vi.i
+data/development + camera/Basic Robot Main.vi.i
+data/development-camera/Camera Code/Test Second Colorv1.vi.i
+data/branches/andrew-dev/Build DashBoard Data.vi.i
+data/development-camera/Ultrasonic sensors.vi.i
+data/development/No Encoders.aliases.i
+data/development + camera/Basic Robot Main.vi.d
+data/branches/slip-control-by-torque-lim/Robot Specs.txt.i
+data/updated-original/Standard 09.aliases.i
+data/tags/stable-drive/Update Camera Status.vi.i
+data/development-camera/Update Camera Status.vi.i
+data/fresh copy/Update Camera Status.vi.i
+data/development + camera/Camera Code/Split FF Infov1.vi.i
+data/original/Slipping.vi.i
+data/development + camera/No Encoders.aliases.i
+data/development-camera/Camera Code/Deadbandv1.vi.i
+data/no-enc/custom motor control-et.vi.i
+data/development + camera/Camera Code/FF Info.ctl.i
+data/development + camera/Steering PID.vi.i
+data/updated-original/Build DashBoard Data.vi.i
+data/development-camera/Steering PID.vi.i
+data/branches/slip-control-by-torque-lim/Steering PID.vi.i
+data/development-camera/Camera Code/FF Results.ctl.i
+data/fresh copy/Basic Robot Main.vi.i
+data/development/Robot Specs.txt.i
+data/development + camera/Camera Code/Target Info.ctl.i
+data/development-camera/Camera Code/BiColor Maskv1.vi.i
+data/development + camera/Camera Code/SizeOrderedMorphologyv1.vi.i
+data/original/Velocity.vi.i
+data/development + camera/Camera Code/Servo Tracking State Machinev1.vi.i
+data/development-camera/Robot Specs.txt.i
+data/development + camera/Camera Code/Compare Sizesv1.vi.i
+data/development + camera/Robot Specs.txt.i
+data/no-enc/Upper Half.vi.i
+data/updated-original/Autonomous Independent.vi.i
+data/development/Steering PID.vi.i
+data/updated-original/custom motor control-et.vi.i
+data/development/Update Camera Status.vi.i
+data/development + camera/Camera Code/Deadbandv1.vi.i
+data/updated-original/Update Camera Status.vi.i
+data/development/Dashboard Datatype.ctl.i
+data/development/Limit Switches.vi.i
+data/fresh copy/Build DashBoard Data.vi.i
+data/fresh copy/Test Project.lvproj.i
+data/updated-original/Shooter Speed Thing.vi.i
+data/development + camera/Camera Code/Team Designationv1.ctl.i
+data/development-camera/Camera Code/Two Color Servo Camera Examplev1.vi.i
